@@ -19,5 +19,5 @@ If there's any problem in code, then let me know!
 ### DLG Result
 ![download](https://user-images.githubusercontent.com/14955366/187334446-5a4de0d0-7949-4c68-86e3-99eaa6d5a849.png)
 
-
 ### iDLG Result
+![download](https://user-images.githubusercontent.com/14955366/187334876-2c2b0d90-2921-4cda-8919-e378b34a7c0a.png)
