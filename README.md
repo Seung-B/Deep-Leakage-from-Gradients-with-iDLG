@@ -8,5 +8,6 @@ Written with reference to two github codes.
 
 For ease of understanding, it was written in the Jupiter notebook with short comments.
 
-## Dummy Image
+## Result
+### Dummy Image
 ![download](https://user-images.githubusercontent.com/14955366/187334010-7d16930b-6896-4b4a-94b1-ffa690f02f0a.png)
